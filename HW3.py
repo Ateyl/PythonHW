@@ -37,7 +37,7 @@ studentsB = ['Bob', 'Sarah', 'Simon']
 
 list_all = list(set(studentsB+studentsA))
 
-print(listAll)
+print(list_all)
 
 
 # What elements are common for both tuples?
